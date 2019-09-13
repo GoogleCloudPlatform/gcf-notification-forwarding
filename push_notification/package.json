@@ -1,0 +1,12 @@
+{
+  "name": "push-events-function",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "safe-buffer": "5.1.2",
+    "isodate": "0.1.4"
+  }
+}
