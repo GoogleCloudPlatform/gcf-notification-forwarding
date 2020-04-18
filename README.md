@@ -1,7 +1,7 @@
 # gcf-notification-forwarding
 
-This repository contains code for the tutorial: Sending notifications for GCP
-events. The code will deploy
+This repository contains code for the tutorial: [Sending notifications for GCP
+events](https://cloud.google.com/solutions/sending-notifications-for-google-cloud-events). The code will deploy
 [Cloud Functions](https://cloud.google.com/functions/) that
 
 *   Reads messages from a Pub/Sub topic and pushes it to a Cloud Function that
